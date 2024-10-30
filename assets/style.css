@@ -1,0 +1,14 @@
+
+.grwv-table {
+    max-width: 800px;
+}
+
+.grwv-table input[type=text], .grwv-table textarea, .grwv-table select {
+    width: 100%;
+}
+
+.grwv-table td label {
+    display: block;
+    margin: 5px 0;
+    font-weight: 600;
+}
